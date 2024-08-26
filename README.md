@@ -36,4 +36,7 @@ Main contributors:
 3. To run the test suite and static analysis tools: `./gradlew check`
     1. For tests only run `./gradlew test`
     2. For static analysis tools only run `./gradlew staticAnalysis`
-	 
+
+Example of the game and what can be explored
+	 ![Screenshot 2024-08-26 215428](https://github.com/user-attachments/assets/3810271f-92d8-4b53-a291-bc8089a706a3)
+
